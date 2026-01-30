@@ -27,7 +27,7 @@ I'm a programmer with a passion for building games and interactive experiences. 
 **Tools & Platforms**
 - Visual Studio Code
 - GitHub
--Visual Studio
+- Visual Studio
 
 ---
 
