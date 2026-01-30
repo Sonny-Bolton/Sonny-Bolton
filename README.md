@@ -21,8 +21,8 @@ I'm a programmer with a passion for building games and interactive experiences. 
 - JavaScript
 - HTML
 - CSS
--C#
--C++
+- C#
+- C++
 
 **Tools & Platforms**
 - Visual Studio Code
